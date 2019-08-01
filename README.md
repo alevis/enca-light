@@ -2,4 +2,6 @@
 
 Visual Studio Code color theme.
 
-![Enca screenshot](assets/screenshot.png)
+![Enca screenshot](assets/screenshot2.png)
+
+Contributions are welcome.
