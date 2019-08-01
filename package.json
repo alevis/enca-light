@@ -1,12 +1,17 @@
 {
-    "name": "enca",
-    "publisher": "LevisAgaba",
+    "name": "enca",    
     "displayName": "Enca",
-    "description": "Color theme",
-    "version": "0.0.1",
+    "description": "The enca color theme",
+    "version": "0.0.2",
+    "publisher": "LevisAgaba",
+    "icon": "./assets/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://poyntsoft@dev.azure.com/poyntsoft/enca/_git/enca"
+        "url": "https://github.com/alevis/enca.git"
+    },
+    "bugs": {
+        "email": "levicea@gmail.com",
+        "url": "https://github.com/alevis/enca/issues"
     },
     "engines": {
         "vscode": "^1.36.0"
