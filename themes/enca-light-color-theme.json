@@ -2,7 +2,7 @@
 	"name": "Enca",
 	"type": "light",
 	"colors": {
-		"editor.background": "#ffffff", /* "#141618",*/
+		"editor.background": "#ffffffbd", /* "#141618",*/
 		"editor.foreground": "#4a0f81",
 		"activityBarBadge.background": "#4285F4",
 		"sideBarTitle.foreground": "#bbbbbb"
