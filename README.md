@@ -1,7 +1,7 @@
-# Enca color theme
+# Enca light-theme
 
 Visual Studio Code color theme.
 
-![Enca screenshot](assets/screenshot2.png)
+![Enca screenshot](assets/screenshot.png)
 
 Contributions are welcome.
